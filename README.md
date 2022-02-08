@@ -24,6 +24,6 @@ O microcontrolador ESP32 é um dos principais componentes do protótipo, é ele 
 a informação que está trancado. Quando é feito o escâner do QRCode, o sistema muda e estado e o relé aciona,
 o LED vermelho apaga e o verde acende, e é possível ver no display LCD a situação de aberta. 
 
-[![Demonstração do projeto](https://img.youtube.com/vi/HN4Dl7bCTV0/maxresdefault.jpg)](https://youtu.be/HN4Dl7bCTV0)
+[![Demonstração do Projeto](https://yt-embed.herokuapp.com/embed?v=HN4Dl7bCTV0)](https://www.youtube.com/watch?v=HN4Dl7bCTV0 "Demonstração do SecureDoor")
 
 
